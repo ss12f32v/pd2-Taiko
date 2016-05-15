@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/use">
+        <file>bg.png</file>
+        <file>menu.jpg</file>
+        <file>bb.png</file>
+        <file>br.png</file>
+        <file>panel.png</file>
+        <file>Wada_Katsu.png</file>
+        <file>Wada_Don.png</file>
+        <file>resultbg_clear.png</file>
+        <file>Score.png</file>
+        <file>don.m4a</file>
+        <file>katsu.m4a</file>
+    </qresource>
+</RCC>
